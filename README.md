@@ -1,2 +1,3 @@
 # PYTHON-FOR-DATA-SCIENCE
-This is a lab manual which I created for Python
+ 
+This is lab manual of Python for Data Science which I created in my Sem 5.
